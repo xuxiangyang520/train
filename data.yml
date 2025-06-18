@@ -1,0 +1,7 @@
+path: D:\shujuji\yolov8\ultralytics-main\tests\datasets\sjj
+train: D:\shujuji\yolov8\ultralytics-main\tests\datasets\sjj\images\train
+val: D:\shujuji\yolov8\ultralytics-main\tests\datasets\sjj\images\val
+test: D:\shujuji\yolov8\ultralytics-main\tests\datasets\sjj\images\test
+nc: 4
+names: ["鸟巢", "塑料袋", "漂浮物", "气球"]
+
